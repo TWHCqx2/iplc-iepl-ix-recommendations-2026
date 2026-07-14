@@ -2,7 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/TWHCqx2/iplc-iepl-ix-recommendations-2026?label=最后更新&color=blue)
 ![GitHub Repo stars](https://img.shields.io/github/stars/TWHCqx2/iplc-iepl-ix-recommendations-2026?style=flat&label=Stars)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TWHCqx2.iplc-iepl-ix-recommendations-2026&left_text=访问量)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TWHCqx2.iplc-iepl-ix-recommendations-2026&left_text=Visitors)
 
 **关键词**：Mkcloud评测 | Mkcloud怎么样 | IPLC专线推荐 | IEPL专线 | 广港专线 | 沪港专线 | 沪日专线 | 沪美专线 | 独享IP专线 | 高防专线 | 跨境电商专线 | 云厂IX专线
 
@@ -179,7 +179,10 @@ IPLC 与 IEPL 都是点对点物理专线，不经公网，体验差异不大；
 
 | 日期 | 变更 |
 | --- | --- |
-| 2026-07-14 | 首次发布，基于官网当期产品线与条款整理 |
+| 2026-07-14 | 核对全部 7 条线路的购买链接与服务条款链接，确认有效 |
+| 2026-07-14 | 首次发布：整理官网当期 IEPL/IPLC/IX 全部线路、入口出口资源与退款政策 |
+
+> 本文保持不定期核对更新，以官网实时信息为最终依据。
 
 ---
 
