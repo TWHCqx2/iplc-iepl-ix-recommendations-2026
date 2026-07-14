@@ -1,6 +1,6 @@
 # Mkcloud 专线深度评测（2026）：入口出口独享 IP 的 IEPL/IPLC/IX 专线值得买吗？
 
-![GitHub last commit](https://img.shields.io/github/last-commit/TWHCqx2/iplc-iepl-ix-recommendations-2026?label=最后更新&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/TWHCqx2/iplc-iepl-ix-recommendations-2026?label=Last%20Update&color=blue)
 ![GitHub Repo stars](https://img.shields.io/github/stars/TWHCqx2/iplc-iepl-ix-recommendations-2026?style=flat&label=Stars)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TWHCqx2.iplc-iepl-ix-recommendations-2026&left_text=Visitors)
 
